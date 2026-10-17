@@ -1,0 +1,16 @@
+{
+  "appId": "com.georgeshenoda.ascend",
+  "appName": "Ascend",
+  "webDir": "www",
+  "bundler": "none",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#090d16"
+  }
+}

@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+_site/
+android/app/build/
+android/.gradle/
+ios/App/Pods/
+ios/build/
+
+# Local env / logs
+*.log
+.DS_Store
+local.properties
